@@ -4,7 +4,11 @@
 
 "features": [
 { "type": "Feature", "properties": { "JDAY": 179, "TIME": 1040, "F_CONF": 0.000000, "FRP": 144.800000, "FRP_UNCER": 0.580000, "BT_MIR": 306.700000, "BT_TIR": 301.300000, "BW_BT_MIR": 299.500000, "PIXEL_SIZE": 15.240000 }, "geometry": { "type": "Point", "coordinates": [ 31.27, 36.91 ] } },
-{ "type": "Feature", "properties": { "JDAY": 179, "TIME": 1040, "F_CONF": 0.000000, "FRP": 144.800000, "FRP_UNCER": 0.580000, "BT_MIR": 306.700000, "BT_TIR": 301.300000, "BW_BT_MIR": 299.500000, "PIXEL_SIZE": 15.240000 }, "geometry": { "type": "Point", "coordinates": [ 32.27, 38.91 ] } },
+{ "type": "Feature", "properties": { "JDAY": 179, "TIME": 1040, "F_CONF": 0.000000, "FRP": 144.800000, "FRP_UNCER": 0.580000, "BT_MIR": 306.700000, "BT_TIR": 301.300000, "BW_BT_MIR": 299.500000, "PIXEL_SIZE": 15.240000 }, "geometry": { "type": "Point", "coordinates": [ 30.27, 36.91 ] } },
+{ "type": "Feature", "properties": { "JDAY": 179, "TIME": 1040, "F_CONF": 0.000000, "FRP": 20.800000, "FRP_UNCER": 0.580000, "BT_MIR": 306.700000, "BT_TIR": 301.300000, "BW_BT_MIR": 299.500000, "PIXEL_SIZE": 15.240000 }, "geometry": { "type": "Point", "coordinates": [ 32.27, 38.91 ] } },
+{ "type": "Feature", "properties": { "JDAY": 179, "TIME": 1040, "F_CONF": 0.000000, "FRP": 45.800000, "FRP_UNCER": 0.580000, "BT_MIR": 306.700000, "BT_TIR": 301.300000, "BW_BT_MIR": 299.500000, "PIXEL_SIZE": 15.240000 }, "geometry": { "type": "Point", "coordinates": [ 32.27, 36.91 ] } },
+{ "type": "Feature", "properties": { "JDAY": 179, "TIME": 1040, "F_CONF": 0.000000, "FRP": 65.800000, "FRP_UNCER": 0.580000, "BT_MIR": 306.700000, "BT_TIR": 301.300000, "BW_BT_MIR": 299.500000, "PIXEL_SIZE": 15.240000 }, "geometry": { "type": "Point", "coordinates": [ 32.27, 39.91 ] } },
+{ "type": "Feature", "properties": { "JDAY": 179, "TIME": 1040, "F_CONF": 0.000000, "FRP": 85.800000, "FRP_UNCER": 0.580000, "BT_MIR": 306.700000, "BT_TIR": 301.300000, "BW_BT_MIR": 299.500000, "PIXEL_SIZE": 15.240000 }, "geometry": { "type": "Point", "coordinates": [ 33.27, 38.91 ] } },
 { "type": "Feature", "properties": { "JDAY": 251, "TIME": 1655, "F_CONF": 0.000000, "FRP": 35.900000, "FRP_UNCER": 0.180000, "BT_MIR": 281.300000, "BT_TIR": 280.000000, "BW_BT_MIR": 277.100000, "PIXEL_SIZE": 15.250000 }, "geometry": { "type": "Point", "coordinates": [ 30.99, 37.2 ] } }
 ]
 }
